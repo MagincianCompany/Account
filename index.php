@@ -67,7 +67,7 @@
 
     //register
 
-    else if($funct == 1)
+    /*else if($funct == 1)
     {
         $registerUser = $_POST["registerUser"];
 	$registerPass = $_POST["registerPass"];
@@ -240,7 +240,7 @@
             
         }
 
-    }
+    }*/
     else
     {
         echo "B-A-N-A-N-A";
