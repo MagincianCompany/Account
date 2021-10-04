@@ -6,8 +6,6 @@
 	$dbName = "3499757_dandovueltas";
 
     $funct = $_GET["F"];
-    echo "get the banana";
-
 
 
     //login
